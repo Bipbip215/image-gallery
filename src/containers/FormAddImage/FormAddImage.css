@@ -1,0 +1,14 @@
+.lds-dual-ring {
+    margin: 0 auto;
+    margin-top: 65px;
+    margin-bottom: 66px;
+}
+
+form {
+    margin: 0 auto;
+    max-width: 50%;
+}
+
+form .btn-primary {
+    margin-left: 45%;
+}

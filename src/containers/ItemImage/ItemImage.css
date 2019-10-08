@@ -1,0 +1,21 @@
+.card-dragEnter {
+    border-color: #17A2B8;
+}
+
+.card-dragStart {
+    border-color: green
+}
+
+.card {
+    width: 15rem;
+    margin: 25px;
+    margin-right: 0;
+}
+
+.card-img-top {
+    width: 10rem;
+    height: 9rem;
+    margin: 0 auto;
+    margin-top: 15px;
+    cursor: pointer;
+}
